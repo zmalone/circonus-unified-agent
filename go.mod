@@ -60,7 +60,7 @@ require (
 	github.com/google/go-github/v32 v32.1.0
 	github.com/gopcua/opcua v0.1.12
 	github.com/gorilla/mux v1.6.2
-	github.com/gosnmp/gosnmp v1.32.0
+	github.com/gosnmp/gosnmp v1.35.0
 	github.com/hailocab/go-hostpool v0.0.0-20160125115350-e80d13ce29ed // indirect
 	github.com/harlow/kinesis-consumer v0.3.1-0.20181230152818-2f58b136fee0
 	github.com/hashicorp/consul v1.2.1
@@ -108,7 +108,7 @@ require (
 	github.com/shopspring/decimal v0.0.0-20200105231215-408a2507e114 // indirect
 	github.com/sirupsen/logrus v1.4.2
 	github.com/streadway/amqp v0.0.0-20180528204448-e5adc2ada8b8
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	github.com/tbrandon/mbserver v0.0.0-20170611213546-993e1772cc62
 	github.com/tidwall/gjson v1.6.0
 	github.com/vishvananda/netlink v0.0.0-20171020171820-b2de5d10e38e // indirect
@@ -128,7 +128,6 @@ require (
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/sys v0.0.0-20210608053332-aa57babbf139
 	golang.org/x/text v0.3.6
-	golang.org/x/tools v0.0.0-20200317043434-63da46f3035e // indirect
 	golang.zx2c4.com/wireguard v0.0.0-20210604143328-f9b48a961cd2 // indirect
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20210506160403-92e472f520a5
 	google.golang.org/api v0.20.0
